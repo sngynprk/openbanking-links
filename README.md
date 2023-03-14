@@ -1,5 +1,5 @@
 # Awesome Open Banking
-> byYOURSTRULY
+>byTAM
 
 A curated list of awesome open banking APIs
 
